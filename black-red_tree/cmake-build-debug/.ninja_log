@@ -1,0 +1,5 @@
+# ninja log v5
+0	2205	1645543272463471325	CMakeFiles/black_red_tree.dir/main.cpp.o	f00a3955e1db8af8
+1	1958	1645548137018095702	CMakeFiles/black_red_tree.dir/main.cpp.o	f00a3955e1db8af8
+1	1595	1645548738392965749	CMakeFiles/black_red_tree.dir/BlackRedTree.cpp.o	50849d899c01acc8
+1595	1757	1645548738552965349	black_red_tree	3e52ac143a96032e
